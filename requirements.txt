@@ -7,4 +7,4 @@
 matplotlib==3.2.1
 ipywidgets==7.5.1
 ipython==7.19.0
-appmode
+voila
